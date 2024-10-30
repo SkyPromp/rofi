@@ -1,0 +1,9 @@
+configuration {
+	display-drun: "Applications";
+	drun-display-format: "{icon} {name}";
+	font: "Roboto Bold 16";
+	show-icons: true;
+	modi: "drun";
+}
+
+@theme "~/.config/rofi/custom_theme.rasi"
